@@ -1,0 +1,13 @@
+{
+    "TRUE" : 1,
+    "FALSE": 0,
+    "JWT_STRING" : "nodejsmobylapi",
+    "Add": "data Added successfully...!!",
+    "Update": "data Updated successfully...!!",
+    "Get": "data Get successfully...!!",
+    "Delete": "date Deleted successfully...!!",
+    "Error": "SomeThing went Wrong",
+    "required":"This field is required",
+    "numeric":"This field is numberic",
+    "player_not_exist":"Player does not Exist..!!"
+}
